@@ -5,13 +5,11 @@ if hungry == "yes":
     print("2")
     print("3")
     print("4")
-<<<<<<< HEAD
     print("5")
     print("6")
     print("7")
     print("8")
     print("9")
-=======
->>>>>>> parent of 80b466c... 5
+    print("4")
 else:
     print("DO si=ome exercise")
