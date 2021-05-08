@@ -1,0 +1,1 @@
+print("Rajma Chawal Chahiye")
