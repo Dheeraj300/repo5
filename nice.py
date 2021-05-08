@@ -6,3 +6,6 @@ if a > 9:
 else:
     print("got.....")
 print("rajma")
+print("rajma")
+print("rajma")
+print("rajma")
