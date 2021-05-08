@@ -4,5 +4,6 @@ if hungry == "yes":
     print("1")
     print("2")
     print("3")
+    print("4")
 else:
     print("DO si=ome exercise")
