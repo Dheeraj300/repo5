@@ -9,5 +9,6 @@ if hungry == "yes":
     print("6")
     print("7")
     print("8")
+    print("9")
 else:
     print("DO si=ome exercise")
